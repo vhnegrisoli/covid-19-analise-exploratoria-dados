@@ -1,4 +1,4 @@
-# Covid-19 DSA - Análise Exploratória de Dados
+# Covid-19 EDA - Análise Exploratória de Dados
 
 Projeto de análise exploratória de dados utilizando Python 3, Pandas, Matplotlib, Seaborn e NumPy para analisar os casos e mortes de Covid-19 no Brasil.
 
