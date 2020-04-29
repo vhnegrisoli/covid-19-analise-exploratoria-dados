@@ -10,6 +10,8 @@ Projeto de análise exploratória de dados utilizando Python 3, Pandas, Matplotl
 * Matplotlib
 * Seaborn
 
+[Visualizar Notebook](https://github.com/vhnegrisoli/covid-19-analise-exploratoria-dados/blob/master/An%C3%A1lise%20Explorat%C3%B3ria%20-%20Evolu%C3%A7%C3%A3o%20do%20Coronav%C3%ADrus%20no%20Brasil.ipynb)
+
 O projeto surgiu como objetivo de colocar em prática alguns dos conhecimentos
 obtidos nos cursos de Python da IBM e para analisar o andamento dos casos
 da atual pandemia mundial no Brasil.
