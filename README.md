@@ -13,3 +13,8 @@ Projeto de análise exploratória de dados utilizando Python 3, Pandas, Matplotl
 O projeto surgiu como objetivo de colocar em prática alguns dos conhecimentos
 obtidos nos cursos de Python da IBM e para analisar o andamento dos casos
 da atual pandemia mundial no Brasil.
+
+#### Victor Hugo Negrisoli - Desenvolvedor Full-Stack & Analista de Dados
+
+* [LinkedIn](https://www.linkedin.com/in/victorhugonegrisoli)
+* [Portfolio](https://vhnegrisoli.github.io/portfolio/)
